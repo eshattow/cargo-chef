@@ -7,6 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.78](https://github.com/eshattow/cargo-chef/compare/v0.1.77...v0.1.78) - 2026-04-14
+
+### Added
+
+- toml v1.1 support
+
+### Other
+
+- Add riscv64 architecture to Docker workflow
+- add OCI annotations
+
 ## [0.1.77](https://github.com/LukeMathWalker/cargo-chef/compare/v0.1.76...v0.1.77) - 2026-03-03
 
 ### Fixed
